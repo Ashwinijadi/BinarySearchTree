@@ -11,8 +11,4 @@ public class BinaryNode<K extends Comparable<K>> {
 		this.right = null;
 	}
 
-	public static void main(String[] args) {
-		System.out.println("Welcome to Binary Search Tree Programming");
-	}
-	
 }
